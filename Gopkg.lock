@@ -20,7 +20,7 @@
 
 [[projects]]
   branch = "master"
-  name = "github.com/btcsuite/btcutil"
+  name = "github.com/btcsuite/btcd/btcutil"
   packages = [
     ".",
     "base58",

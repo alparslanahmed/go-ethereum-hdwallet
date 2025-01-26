@@ -31,7 +31,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/btcsuite/btcutil"
+  name = "github.com/btcsuite/btcd/btcutil"
 
 [[constraint]]
   name = "github.com/ethereum/go-ethereum"
